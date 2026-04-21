@@ -1,22 +1,22 @@
 {
-  "nombre": "Tu Nombre Completo",
-  "email": "tuemail@ejemplo.com",
-  "telefonoCompleto": "+34693500740",
-  "telefonoMostrado": "+34 693 500 740",
-  "empresa": "Tu Empresa",
-  "puesto": "Tu Puesto/Título",
-  "descripcion": "Descripción profesional breve",
-  "web": "https://tudominio.com",
+  "nombre": "Fabio Valero Casajús",
+  "email": "fabiovalero2006@gmail.com",
+  "telefonoCompleto": "+34676120161",
+  "telefonoMostrado": "+34 676 120 161",
+  "empresa": "Kings Corner",
+  "puesto": "Estudiante",
+  "descripcion": "Estudiante de Transporte y Logística",
+  "web": "https://fp.kingscorner.es/",
   "ubicacion": "Zaragoza , España",
   "redes": {
-    "linkedin": "https://linkedin.com/in/tuusuario",
-    "github": "https://github.com/tuusuario",
-    "instagram": "@tuusuario"
+    "linkedin": "https://www.linkedin.com/in/fabio-valero-casaj%C3%BAs-a3a11b403/",
+    "github": "hhttps://github.com/fabiovalero2006-a11y",
+    "instagram": "@fabio.valero_"
   },
   "empresa_datos": {
-    "nombre": "Nombre de la Empresa",
-    "email": "empresa@ejemplo.com",
-    "web": "https://empresa.com"
+    "nombre": "Kings Corner",
+    "email": "fp@kingscorner.es",
+    "web": "https://fp.kingscorner.es/"
   },
   "diseno": {
     "colorPrincipal": "#d4af37",
