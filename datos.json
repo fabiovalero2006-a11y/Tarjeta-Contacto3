@@ -3,15 +3,11 @@
   "email": "fabiovalero2006@gmail.com",
   "telefonoCompleto": "+34676120161",
   "telefonoMostrado": "+34 676 120 161",
-  "empresa": "Kings Corner",
-  "puesto": "Estudiante",
   "descripcion": "Estudiante de Transporte y Logística",
-  "web": "https://fp.kingscorner.es/",
   "ubicacion": "Zaragoza , España",
   "redes": {
     "linkedin": "https://www.linkedin.com/in/fabio-valero-casaj%C3%BAs-a3a11b403/",
     "github": "hhttps://github.com/fabiovalero2006-a11y",
-    "instagram": "@fabio.valero_"
   },
   "empresa_datos": {
     "nombre": "Kings Corner",
@@ -19,8 +15,8 @@
     "web": "https://fp.kingscorner.es/"
   },
   "diseno": {
-    "colorPrincipal": "#d4af37",
-    "colorFondo": "#1a1a1a",
-    "colorAcento": "#764ba2"
+    "colorPrincipal": "#f000ff",
+    "colorFondo": "#001eff",
+    "colorAcento": "#4deeea"
   }
 }
