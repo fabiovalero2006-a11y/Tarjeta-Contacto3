@@ -18,5 +18,7 @@
     "colorPrincipal": "#f000ff",
     "colorFondo": "#001eff",
     "colorAcento": "#4deeea"
+    "estilo": "neon"
+    "borderRadius": 18
   }
 }
